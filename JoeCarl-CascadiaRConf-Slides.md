@@ -80,7 +80,7 @@ Every time you save your page, RStudio calls `serve_site()`
 
 ![blogpost](blogpost_rmd.png)
 
-Editing the `.toml`/`.yaml` File
+Editing the .toml/.yaml File
 ========================================================
 
 This file is the backbone of your site, where most options are set
@@ -88,7 +88,6 @@ This file is the backbone of your site, where most options are set
 Some of the important options:
 
 - `baseurl = "https://<yourusername>.github.io/"`
-- `title = "Fancy Website Title"`
 - `theme = "hugo-tranquilpeak-theme"` 
   + (replace with your theme name)
 - `publishDir = "../<yourusername>.github.io"`
